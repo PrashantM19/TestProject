@@ -1,0 +1,10 @@
+c:\users\miles18\source\repos\MySample\MySample\bin\Debug\MySample.exe.config
+c:\users\miles18\source\repos\MySample\MySample\bin\Debug\MySample.exe
+c:\users\miles18\source\repos\MySample\MySample\bin\Debug\MySample.pdb
+c:\users\miles18\source\repos\MySample\MySample\obj\Debug\MySample.csprojResolveAssemblyReference.cache
+c:\users\miles18\source\repos\MySample\MySample\obj\Debug\MySample.Form1.resources
+c:\users\miles18\source\repos\MySample\MySample\obj\Debug\MySample.Properties.Resources.resources
+c:\users\miles18\source\repos\MySample\MySample\obj\Debug\MySample.csproj.GenerateResource.Cache
+c:\users\miles18\source\repos\MySample\MySample\obj\Debug\MySample.csproj.CoreCompileInputs.cache
+c:\users\miles18\source\repos\MySample\MySample\obj\Debug\MySample.exe
+c:\users\miles18\source\repos\MySample\MySample\obj\Debug\MySample.pdb
