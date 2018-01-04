@@ -165,8 +165,8 @@ csx/
 AppPackages/
 
 # Others
-**/bin/**
-**/obj/**
+bin
+obj
 *.Cache
 ClientBin/
 [Ss]tyle[Cc]op.*
